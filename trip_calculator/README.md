@@ -1,6 +1,8 @@
 # Trip Cost Calculator
 
-Create a command-line program that follows the outlined specs.
+Create a python script that asks a user questions in the command line. The script should follow the outlined specs.
+
+## Specs
 
 Receive the following arguments from the user:
 
@@ -8,4 +10,4 @@ Receive the following arguments from the user:
 - liters-per-kilometer usage of the car 
 - price per liter of fuel
 
-Display the cost of the trip to the user in the console.
+Calculate the cost of the trip and display it to the user in the console.
