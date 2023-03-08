@@ -9,7 +9,7 @@ P.S.: <http://www.montypython.net/scripts/dentist.php> ;)
 You can start with the following code:
 
 ```python
-lowercase_letters = "abcdefghijklmnopqrstuvwxyz" * 2
+lowercase_letters = "abcdefghijklmnopqrstuvwxyz"
 secret = "I hear the gooseberries are doing well this year, and so are the mangoes."
 cipher = 7
 ```
