@@ -1,10 +1,10 @@
-# Cesar Cypher
+# Caesar Cipher
 
 Replicate one of the oldest known encryption by writing your own code.
 
-Apply a [Cesar cipher](https://en.wikipedia.org/wiki/Caesar_cipher) of 7 to the `secret` variable.
+Apply a [Caesar cipher](https://en.wikipedia.org/wiki/Caesar_cipher) of 7 to the `secret` variable.
 
-P.S.: <http://www.montypython.net/scripts/dentist.php> ;)
+P.S.: <[http://www.montypython.net/scripts/dentist.php](http://www.montypython.50webs.com/scripts/Series_1/29.htm)> ;)
 
 You can start with the following code:
 
